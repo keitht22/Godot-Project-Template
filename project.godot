@@ -15,7 +15,16 @@ _global_script_class_icons={
 
 [application]
 
-config/name="Project Template"
+config/name="05-3D-RPG"
+config/description="-A third-person animated character that can move with keyboard and mouse control
+	-And a camera that follows that character's movement
+-Your game will need to have terrain and objects with which you can interact
+-You will need to apply a PBR texture to at least one mech in your game
+-You will need to have non-player agents (enemies or others that behave according to a rudimentary AI
+-You will need to have a dialogue-based conversation with one agent
+-You will need to have at least one hand-held item (weapon or other) with which you can interact with the agents and/or the environment
+-You will need to have a scoring system
+-Your game must have a clear objective"
 config/icon="res://icon.png"
 
 [rendering]
